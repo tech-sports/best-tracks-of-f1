@@ -29,3 +29,10 @@ html {scroll-behavior: smooth;}
         p {margin-left: 10px;}
         #pluh {font-size:20px;
         font-family: serif;}
+      a:link {color: black;
+ 			text-decoration: underline;}
+
+	a:visited {color: black;
+  			text-decoration: underline;}
+  	a:hover {color: red;
+  			text-decoration: underline;}
